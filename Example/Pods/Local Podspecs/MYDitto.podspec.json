@@ -1,0 +1,22 @@
+{
+  "name": "MYDitto",
+  "version": "0.1.0",
+  "summary": "A short description of MYDitto.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WenMingYan/MYDitto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WenMingYan": "wenmingyan1990@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/WenMingYan/MYDitto.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MYDitto/Classes/**/*"
+}
